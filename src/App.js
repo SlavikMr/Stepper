@@ -73,7 +73,7 @@ class App extends React.Component {
             )}
             />
           ))}
-          <Redirect to="/steps/step1" />
+          {/* <Redirect to="/steps/step1" /> */}
         </Switch>
       </div>
     );
